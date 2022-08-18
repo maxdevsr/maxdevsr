@@ -15,7 +15,7 @@ Estudo na Faculdade Pitagoras e na Kenzie Academy Brasil!
 
 Atualmente estou trabalhando como Programador de Software na Atrius Lub, onde trabalho com desenvolvimento web e mobile.
 
-Estou em busca da primeira oportunidade como Dev, e apresento a voce meu linkedIn e meu portfolio pessoal:
+Apresento a voce meu linkedIn e meu portfolio pessoal:
 
 
 <a href="https://www.linkedin.com/in/macson-soares-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
