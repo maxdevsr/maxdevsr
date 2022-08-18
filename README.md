@@ -13,7 +13,7 @@
 
 Estudo na Faculdade Pitagoras e na Kenzie Academy Brasil!
 
-Atualmente estou trabalhando de motoboy a noite e finais de semana, e de Peer Coach na Kenzie Academy durante a tarde, onde minha funcao é auxiliar os novos aspirantes a Dev`s a entender, praticar e ser capaz de criar projetos com a maravilhosa biblioteca React.JS, e esta sendo uma experiencia bastante prazerosa.
+Atualmente estou trabalhando como Programador de Software na Atrius Lub, onde trabalho com desenvolvimento web e mobile.
 
 Estou em busca da primeira oportunidade como Dev, e apresento a voce meu linkedIn e meu portfolio pessoal:
 
