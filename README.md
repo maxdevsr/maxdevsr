@@ -1,7 +1,8 @@
 ## Bem vindo! 👋
 
 
-### Meu nome é Macson Soares Rocha, sou um desenvolvedor front-end e um fullstack em formacao!
+### Meu nome é Macson Soares Rocha, e sou Programador de Software!
+###Atualmente estou trabalhando como Programador de Software na Atria Lub/Camp Tecnologia, onde trabalho com desenvolvimento web e mobile.
 
 #### Techs que tenho conhecimento
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60"/>
@@ -11,8 +12,6 @@
 
 
 Estudo na Faculdade Pitagoras e na Kenzie Academy Brasil!
-
-Atualmente estou trabalhando como Programador de Software na Atria Lub/Camp Tecnologia, onde trabalho com desenvolvimento web e mobile.
 
 Apresento a voce meu linkedIn e meu portfolio pessoal:
 
