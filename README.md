@@ -7,6 +7,10 @@
 #### e tambem trabalho atualmente com Laravel e MySQL/Postgres.
 #### Foco de estudo atual é o renomado Ruby e Ruby on Rails.
 
+<a href="https://www.linkedin.com/in/macson-soares-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+## [Meu portfolio pessoal](https://macsonsoares.vercel.app/)
+<!--
 #### Techs que tenho conhecimento
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
@@ -28,7 +32,7 @@ Apresento a voce meu linkedIn e meu portfolio pessoal:
 ## [Meu portfolio pessoal](https://macsonsoares.vercel.app/)
 
 
-<!--
+
 **maxdevsr/maxdevsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
